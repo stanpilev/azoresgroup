@@ -16,5 +16,3 @@ Enhance user engagement through a transparent, blockchain-managed loyalty progra
 Support local businesses and conservation by leveraging blockchain's efficiencies.
 
 Contributors are welcome to fork, clone, and submit pull requests to help us build a more robust, user-friendly, and impactful travel booking ecosystem. Whether you're interested in blockchain technology, tourism, or just want to contribute to a project that supports sustainable tourism, we invite you to join us. 
-
-For more details on our technical approach, check our Technical Paper https://docs.google.com/document/d/1u8wGeKHOBO25U47TdMIzedQZ27SFl0GO220d0Gn2atw/edit?usp=sharing 
