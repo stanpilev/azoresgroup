@@ -33,7 +33,7 @@ StellarAzores offers a seamless booking experience for travel packages, tours, a
 - Reward Allocation
 - Passport Updates & Redemption
 
-For a detailed technical breakdown, see [Technical Details](docs/technical_details.md).
+For a detailed technical breakdown, see [Technical Details](https://gist.github.com/stanpilev/4625ca4ab4b7fe1ea10653b914839278).
 
 ---
 
