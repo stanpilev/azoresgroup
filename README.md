@@ -43,26 +43,22 @@ For a detailed technical breakdown, see [Technical Details](https://gist.github.
 - **Timeline:** April 1 – April 30, 2025
 - **Deliverables:** User registration, Azores Passport, core booking platform.
 - **Metrics:** Functional signup, UI for 10+ services.
-- **Funding:** 33% (~$11,667 if $35,000)
+- **Funding:** 33% (~$14,760 if $44,280)
 
 ### Tranche 2: Payment and Reward System
 - **Timeline:** May 1 – May 31, 2025
 - **Deliverables:** Payment processing, reward allocation, Stellar integration.
 - **Metrics:** Testnet XLM payments, verified rewards.
-- **Funding:** 33% (~$11,667 if $35,000)
+- **Funding:** 33% (~$14,760 if $44,280)
 
 ### Tranche 3: Passport Enhancements and Redemption
 - **Timeline:** June 1 – June 30, 2025
 - **Deliverables:** Passport updates, redemption system, mainnet launch.
 - **Metrics:** Operational dashboard, audited contracts.
-- **Funding:** 33% (~$11,666 if $35,000)
+- **Funding:** 33% (~$14,760 if $44,280)
 
 ---
 
-## Getting Started
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/AzoresGroup/StellarAzores.git
 
 Contact
 Email: stan@azores.group
